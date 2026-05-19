@@ -1,3 +1,5 @@
+[English](README.md)
+
 # danbooru artists extractor
 
 从 Danbooru 标签数据中提取并清洗画师标签，输出 CSV 文件，用于 AI 图像生成工作流。

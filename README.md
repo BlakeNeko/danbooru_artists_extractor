@@ -1,3 +1,5 @@
+[简体中文](README_CN.md)
+
 # danbooru artists extractor
 
 Extract and clean Danbooru artist tags into a CSV file for AI image generation workflows.
